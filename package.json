@@ -1,0 +1,12 @@
+{
+  "name": "encrypt-decrypt",
+  "version": "1.0.0",
+  "description": "a silly encrypt decrypt package for learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ridsuteri",
+  "license": "ISC"
+}
