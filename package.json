@@ -1,5 +1,5 @@
 {
-  "name": "encrypto-decrypto",
+  "name": "crypto-ridsuteri",
   "version": "1.1.0",
   "description": "a silly encrypt decrypt package for learning",
   "main": "index.js",
